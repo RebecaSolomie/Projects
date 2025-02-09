@@ -1,0 +1,56 @@
+"read_graph_from_file(file_name)"
+    This function reads a directed graph from a text file.
+    Parameters:
+        file_name: The name of the file containing the graph data.
+    Returns:
+        A DirectedGraph object representing the graph read from the file.
+
+"write_graph_to_file(graph, file_name)"
+    This function writes a directed graph to a text file.
+    Parameters:
+        graph: The DirectedGraph object to be written to the file.
+        file_name: The name of the file to which the graph will be written.
+    Returns:
+        None
+    Raises:
+        ValueError: If there is nothing in the graph to write.
+
+"generate_random_graph(vertices_number, edges_number)"
+    This function generates a random directed graph with the specified number of vertices and edges.
+    Parameters:
+        vertices_number: The number of vertices in the graph.
+        edges_number: The number of edges in the graph.
+    Returns:
+        A DirectedGraph object representing the randomly generated graph.
+
+
+DirectedGraph class
+    This class represents a directed graph.
+    Attributes:
+        _vertices_number: The number of vertices in the graph.
+        _edges_number: The number of edges in the graph.
+        _dict_in: A dictionary mapping each vertex to its list of inbound edges.
+        _dict_out: A dictionary mapping each vertex to its list of outbound edges.
+        _dict_cost: A dictionary mapping each edge to its cost.
+    Methods:
+        add_vertex(vertex): Adds a vertex to the graph.
+        remove_vertex(vertex): Removes a vertex from the graph.
+        add_edge(source, target, cost): Adds a directed edge with a specified cost between two vertices.
+        remove_edge(source, target): Removes a directed edge between two vertices.
+        get_dict_in(): Returns the dictionary of inbound edges.
+        get_dict_out(): Returns the dictionary of outbound edges.
+        get_dict_cost(): Returns the dictionary of edge costs.
+        get_number_of_vertices(): Returns the number of vertices in the graph.
+        get_number_of_edges(): Returns the number of edges in the graph.
+        get_in_degree(vertex): Returns the in-degree of a vertex.
+        get_out_degree(vertex): Returns the out-degree of a vertex.
+        get_inbound_edges(vertex): Returns an iterator over the inbound edges of a vertex.
+        get_outbound_edges(vertex): Returns an iterator over the outbound edges of a vertex.
+        get_endpoints(source, target): Returns the cost of the edge between two vertices.
+        parse_vertices(): Returns an iterator over all vertices in the graph.
+        parse_inbound_edges(vertex): Returns an iterator over the inbound edges of a vertex.
+        parse_outbound_edges(vertex): Returns an iterator over the outbound edges of a vertex.
+        parse_cost(): Returns an iterator over all edge costs in the graph.
+        has_edge(source, target): Checks if there is an edge between two vertices.
+        set_cost(source, target, cost): Sets the cost of an edge between two vertices.
+        make_copy(): Creates a deep copy of the graph. If the graph is None, returns None.
