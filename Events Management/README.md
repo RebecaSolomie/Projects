@@ -1,5 +1,5 @@
 <section>
-    <h2>Project Overview</h2>
+    <h1>Project Overview</h1>
     <p>
         This project is an <strong>Events Management Application</strong> developed in <strong>C++</strong>. 
         It helps keep track of events happening in a city and allows users to add events to their personal list. 
