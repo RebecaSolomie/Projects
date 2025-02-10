@@ -1,5 +1,5 @@
 <section>
-    <h2>Project Overview</h2>
+    <h1>Project Overview</h1>
     <p>
         This project is a <strong>Beauty Salon Management Database</strong> built using <strong>SQL</strong> to efficiently 
         manage salon operations, including customer information, appointments, services, staff, and transactions. 
