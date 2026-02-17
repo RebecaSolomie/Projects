@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Lodha Miracle",
+    "location": "East Essex, UK",
+    "price": "850K",
+    "size": "750 sq ft",
+    "bedrooms": "3",
+    "img": "house1.png",
+    "description": "A beautiful modern home in the heart of East Essex, featuring a private garden. This property offers a perfect blend of contemporary design and comfort, with spacious living areas and high-end finishes throughout. Ideal for families looking for a serene and stylish living environment.",
+    "tags": [
+      "Modern",
+      "Garden"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lake Villa",
+    "location": "Lake Zurich South, Switzerland",
+    "price": "1.8M",
+    "size": "2000 sq ft",
+    "bedrooms": "5",
+    "img": "house2.png",
+    "description": "A spacious villa with stunning lake views and a private pool. This luxurious property boasts expansive outdoor spaces, perfect for entertaining guests or enjoying peaceful moments by the water. The interiors are elegantly designed with top-of-the-line amenities, ensuring a comfortable and sophisticated lifestyle.",
+    "tags": [
+      "Spacious",
+      "Water View",
+      "Pool"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Palm Residence",
+    "location": "Palm Jumeirah, Dubai",
+    "price": "3.5M",
+    "size": "4000 sq ft",
+    "bedrooms": "6",
+    "img": "house3.png",
+    "description": "A luxurious and modern residence with breathtaking sea views. Located in the prestigious Palm Jumeirah, this property offers unparalleled luxury with its spacious layout, state-of-the-art facilities, and exquisite finishes. Perfect for those seeking an opulent lifestyle in one of Dubai's most sought-after locations.",
+    "tags": [
+      "Modern",
+      "Water View"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Villa Leopolda",
+    "location": "Cote D'Azur, France",
+    "price": "5M",
+    "size": "5000 sq ft",
+    "bedrooms": "8",
+    "img": "house4.png",
+    "description": "A historical villa with expansive gardens and a private pool. This magnificent property combines classic architecture with modern comforts, offering a unique living experience. The lush gardens and outdoor spaces provide a tranquil retreat, while the interiors are adorned with elegant details and luxurious amenities.",
+    "tags": [
+      "Historical",
+      "Garden",
+      "Pool"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "The Pinnacle",
+    "location": "Montana, USA",
+    "price": "2.5M",
+    "size": "3000 sq ft",
+    "bedrooms": "4",
+    "img": "house5.png",
+    "description": "A spacious mountain retreat with modern amenities and stunning views. Nestled in the picturesque mountains of Montana, this property offers a perfect escape from the hustle and bustle of city life. The interiors are designed for comfort and style, with large windows that frame the breathtaking natural surroundings.",
+    "tags": [
+      "Modern",
+      "Mountain"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Villa La Palladiana",
+    "location": "Veneto, Italy",
+    "price": "4M",
+    "size": "3500 sq ft",
+    "bedrooms": "7",
+    "img": "house6.png",
+    "description": "A historical villa with classical architecture and modern comforts. This exquisite property is a testament to timeless elegance, featuring beautifully preserved architectural details and luxurious modern amenities. The spacious interiors and serene outdoor spaces make it an ideal home for those who appreciate both history and contemporary living.",
+    "tags": [
+      "Historical"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "The One",
+    "location": "Bel Air, USA",
+    "price": "3M",
+    "size": "3200 sq ft",
+    "bedrooms": "5",
+    "img": "house7.png",
+    "description": "A modern and luxurious home with a private pool and spacious interiors. Located in the exclusive neighborhood of Bel Air, this property offers the ultimate in luxury living. The open-plan design and high-end finishes create a sophisticated and comfortable environment, perfect for entertaining or relaxing in style.",
+    "tags": [
+      "Modern",
+      "Spacious",
+      "Pool"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Villa Alang Alang",
+    "location": "Bali, Indonesia",
+    "price": "2.2M",
+    "size": "2700 sq ft",
+    "bedrooms": "4",
+    "img": "house8.png",
+    "description": "A tropical paradise with modern amenities and a private pool. This stunning villa is set in the lush landscapes of Bali, offering a serene and luxurious living experience. The property features spacious living areas, beautiful outdoor spaces, and top-of-the-line amenities, making it a perfect retreat for those seeking tranquility and comfort.",
+    "tags": [
+      "Modern",
+      "Pool"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Flower Villa",
+    "location": "Sicily, Italy",
+    "price": "820K",
+    "size": "800 sq ft",
+    "bedrooms": "3",
+    "img": "house9.png",
+    "description": "A modern home with spacious interiors and a beautiful garden. This charming property combines contemporary design with a cozy atmosphere, offering a perfect living space for families. The well-maintained garden provides a lovely outdoor area for relaxation and entertainment, while the interiors are designed for comfort and style.",
+    "tags": [
+      "Historical",
+      "Spacious",
+      "Garden"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Prestige Apartment",
+    "location": "Central London, UK",
+    "price": "935K",
+    "size": "750 sq ft",
+    "bedrooms": "2",
+    "img": "house10.png",
+    "description": "A modern apartment in the heart of London with luxurious finishes. This elegant property offers a sophisticated urban living experience, with high-end amenities and stylish interiors. Located in a prime location, it provides easy access to the best that London has to offer, making it an ideal home for city dwellers.",
+    "tags": [
+      "Modern"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Eden Apartment",
+    "location": "Eden Island, Seychelles",
+    "price": "1.2M",
+    "size": "1000 sq ft",
+    "bedrooms": "3",
+    "img": "house11.png",
+    "description": "A modern apartment with stunning sea views and luxurious amenities. This beautiful property is located in the exclusive Eden Island, offering a serene and opulent living experience. The spacious interiors and breathtaking views make it a perfect home for those seeking luxury and tranquility in a tropical paradise.",
+    "tags": [
+      "Modern",
+      "Water View"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sky Villa",
+    "location": "Dubai Marina, Dubai",
+    "price": "2.5M",
+    "size": "2000 sq ft",
+    "bedrooms": "4",
+    "img": "house12.png",
+    "description": "A luxurious villa with modern design and breathtaking marina views. This stunning property is located in the prestigious Dubai Marina, offering a perfect blend of luxury and comfort. The spacious interiors and high-end finishes create a sophisticated living environment, while the beautiful views provide a serene backdrop for everyday life.",
+    "tags": [
+      "Modern",
+      "Water View"
+    ]
+  }
+]
